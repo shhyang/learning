@@ -1,0 +1,16 @@
+- title: "Home"
+  href: "/"
+- title: "People"
+  href: "/people/"
+- title: "Research"
+  href: "/research/"
+  # subcategories:
+  #     - subtitle: "Research 1"
+  #       subhref: "/"
+  #     - subtitle: "Research 2"
+  #       subhref: "/"
+- title: "UpComings"
+  href: "/upcomings/"
+  
+- title: "Previous"
+  href: "/previous/" 
