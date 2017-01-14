@@ -4,12 +4,33 @@ layout: default
 
 ## People in the study group
 
-### Prof.Yang Shenghao
+### Researchers
 
-### Mr.Cao Haiwen
+#### Prof.Yang Shenghao
 
-### Mr.Liu Yu
+#### Mr.Cao Haiwen
 
-### Mr.Ma Jun
+#### Mr.Liu Yu
+
+#### Mr.Ma Jun
 
 
+### Students
+
+#### Jiang Shunan
+
+#### Gong Kang
+
+#### Chen Kang
+
+#### Qian Junyu
+
+#### Yu Shuhua
+
+#### Tang Qianyuan
+
+#### Chen Sibo
+
+#### Cai Shuhong
+
+#### Li Jiawen

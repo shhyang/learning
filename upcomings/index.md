@@ -20,8 +20,12 @@ Tang Qianyuan：6,14,15,32,33,47,50, voice recognition
 
 Chen Sibo    ：7,16,29,30,31,44,45, n-grams
 
+Further topics:
+1. reading comprehension
+2. generative adversarial networks
+3. one shot learning
+4. memory networks
 
-(ref to NLP papers for the following topics)
 
 ## Upcomings
 - ["Ask Me Anything: Dynamic Memory Networks for Natural Language Processing"](http://arxiv.org/abs/1506.07285)
