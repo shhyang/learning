@@ -4,4 +4,4 @@ layout: default
 
 ## Welcome
 
-Welcome to Our Network Coding Study Group.
+Welcome to Our Machine Learning Study Group.

@@ -1,8 +1,8 @@
 # Site settings
-title: Network Coding Study Group
+title: Machine Learning Study Group
 email: shenghao.yang@gmail.com
-baseurl: "/netcoding" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/mclearning" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: Undef
 github_username:  shhyang
 
@@ -18,3 +18,5 @@ excerpt_separator: "<!--more-->"
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+
+theme: jekyll-theme-cayman
