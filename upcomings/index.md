@@ -18,7 +18,7 @@ Yu Shuhua    ：5, 9,24,25,35,38,49, named entity recognition
 
 Tang Qianyuan：6,14,15,32,33,47,50, voice recognition
 
-Chen Sibo    ：7,16,29,30,31,44,45, n-grams
+Chen Sibo    ：7,16,29,30,31,44,45, n-grams 
 
 Further topics:
 1. reading comprehension
