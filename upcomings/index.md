@@ -3,8 +3,9 @@ layout: default
 ---
 
 ## All topics :
-(ref Prof.Yang shenghao's email on 15 Nov for the following topics)
-- "Papers on Language Understanding"\[[pdf](reading-list-2016-09-18.pdf)\]
+
+- "Papers on Language Understanding"\[[pdf](reading-list-2016-09-18.pdf)\] <br/>
+  (ref Prof.Yang shenghao's email on 15 Nov for the following topics)
   - Jiang Shunan:  ~~1, 17,~~ 18, 19, 20, 40, 42, word normalization
   
   - Gong Kang:  ~~2,~~ 12, 13, 26, 27, 39, 41, sentence segmentation
