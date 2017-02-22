@@ -35,10 +35,10 @@ layout: default
     
     
 - Further topics:
-  - reading comprehension
-  - generative adversarial networks
-  - one shot learning
-  - memory networks
+  - Reading comprehension
+  - Generative adversarial networks
+  - One shot learning
+  - Memory networks
     1. ~~"End-to-end memory networks"~~ (Yu Shuhua)
 
 
