@@ -28,7 +28,7 @@ Further topics:
 
 
 ## Upcomings
-- [End-to-end memory networks](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+- [End-to-end memory networks.](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 Note: Advances in neural information processing systems, 2015
 Presentor: Yu Shuhua Time: 7pm, 2017-02-25 
 Place：Zhixin Building 231B
