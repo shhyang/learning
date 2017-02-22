@@ -34,13 +34,13 @@ Presentor: Gong kang
 Time: 7pm, 2017-01-14
 Place：Zhixin Building 231B
 
-- [From Frequency to Meaning: Vector Space Models of Semantics.](http://www.jair.org/media/2934/live-2934-4846-jair.pdf)
+- ["From Frequency to Meaning: Vector Space Models of Semantics"](http://www.jair.org/media/2934/live-2934-4846-jair.pdf)
 Note: Journal of artificial intelligence research, 2010, A must-read for semantics representation.
 Presentor: Chen Sibo
 Time: 7pm, 2017-01-14
 Place：Zhixin Building 231B
 
-- [A Neural Conversational Model.](http://arxiv.org/abs/1506.05869)
+- ["A Neural Conversational Model"](http://arxiv.org/abs/1506.05869)
 Note: arXiv:1506.05869, 2015, Conversational modelling.
 Presentor: Tang Qianyuan
 Time: 7pm, 2017-02-18
