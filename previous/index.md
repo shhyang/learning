@@ -14,7 +14,7 @@ Time: 10:00am, 2016-11-27
 Place：Zhixin Building 203A
 
 - ["Statistical Language Models based on Neural Networks"](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
-Note: A Ph.D thesis
+Note: A Ph.D thesis.
 
 - ["Distributed Representations of Words and Phrases and their Compositionality"](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-com.pdf)
 Note: Advances in neural information processing systems, 2013, Simple Word Vector representations: word2vec, GloVe.
