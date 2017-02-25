@@ -40,8 +40,8 @@ Presentor: Chen Sibo
 Time: 7pm, 2017-01-14
 Place：Zhixin Building 231B
 
-- ["A Neural Conversational Model"](http://arxiv.org/abs/1506.05869)
-Note: arXiv:1506.05869, 2015, Conversational modelling.
+- ["Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine"](https://www.microsoft.com/en-us/research/publication/speech-emotion-recognition-using-deep-neural-network-and-extreme-learning-machine/)
+Note: Interspeech, 2014, Speech emotion recognition.
 Presentor: Tang Qianyuan
 Time: 7pm, 2017-02-18
 Place：Zhixin Building 231B
