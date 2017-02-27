@@ -44,8 +44,8 @@ layout: default
 
 
 ## Upcomings
-- ["End-to-end memory networks"](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
-Note: Advances in neural information processing systems, 2015
-Presentor: Yu Shuhua Time: 7pm, 2017-02-25 
+- ["A comparative study on Chinese text categorization methods"](http://www.comp.nus.edu.sg/~TANCL/publications/c2000/he00pricai.pdf)
+Note: PRICAI workshop on text and web mining, 2000
+Presentor: Li Jiawen Time: 7pm, 2017-03-04 
 Place：Zhixin Building 231B
 
