@@ -29,7 +29,7 @@ layout: default
   -  Li Jiawen: 
       1. "A Comparative Study on Chinese Text Categorization Methods"
       2. "A Comparative Study on Feature Selection in Text Categorization"
-      3. "Best terms: An efficient feature-selection algorithm for text categorization"
+      3. "Best terms: An Efficient Feature-selection Algorithm for Text Categorization"
       
       
     
@@ -39,13 +39,17 @@ layout: default
   - Generative adversarial networks
   - One shot learning
   - Memory networks
-    1. ~~"End-to-end memory networks"~~ (Yu Shuhua)
+    1. ~~"End-to-End Memory Networks"~~ (Yu Shuhua)
 
 
 
 ## Upcomings
-- ["A comparative study on Chinese text categorization methods"](http://www.comp.nus.edu.sg/~TANCL/publications/c2000/he00pricai.pdf)
+- ["A Comparative Study on Chinese Text Categorization Methods"](http://www.comp.nus.edu.sg/~TANCL/publications/c2000/he00pricai.pdf)
 Note: PRICAI workshop on text and web mining, 2000.
 Presentor: Li Jiawen Time: 7pm, 2017-03-04 
 Place：Zhixin Building 231B.
 
+- ["A New Approach to Feature Selection for Text Categorization"](http://ieeexplore.ieee.org/document/1598812/?reload=true)
+Note: Natural Language Processing and Knowledge Engineering, 2005. IEEE NLP-KE '05.
+Presentor: Cai Shuhong Time: 7pm, 2017-03-04 
+Place：Zhixin Building 231B.
