@@ -39,7 +39,7 @@ layout: default
   - Generative adversarial networks
   - One shot learning
   - Memory networks
-    1. ~~"End-to-End Memory Networks"~~ (Yu Shuhua)
+    1. ~~"End-to-end Memory Networks"~~ (Yu Shuhua)
 
 
 
