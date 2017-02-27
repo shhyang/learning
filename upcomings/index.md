@@ -45,7 +45,7 @@ layout: default
 
 ## Upcomings
 - ["A comparative study on Chinese text categorization methods"](http://www.comp.nus.edu.sg/~TANCL/publications/c2000/he00pricai.pdf)
-Note: PRICAI workshop on text and web mining, 2000
+Note: PRICAI workshop on text and web mining, 2000.
 Presentor: Li Jiawen Time: 7pm, 2017-03-04 
-Place：Zhixin Building 231B
+Place：Zhixin Building 231B.
 
