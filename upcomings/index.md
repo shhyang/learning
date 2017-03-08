@@ -24,11 +24,11 @@ layout: default
   - Cai Shuhong:
       1. "Meaningful Term Extraction and Discriminative Term Selection in Text Categorization via Unknown-Word Methodology"
       2. "OCFS: Optimal Orthogonal Centroid Feature Selection for Text Categorization"
-      3. "A New Approach toFeatureSelectionfor Text Categorization"
-
+      3. ~~"A New Approach toFeatureSelectionfor Text Categorization"~~
+  
   -  Li Jiawen: 
-      1. "A Comparative Study on Chinese Text Categorization Methods"
-      2. "A Comparative Study on Feature Selection in Text Categorization"
+      1. ~~"A Comparative Study on Chinese Text Categorization Methods"~~
+      2. "A Comparative Study on Feature Selection in Text Categorization"
       3. "Best terms: An Efficient Feature-selection Algorithm for Text Categorization"
       
       
@@ -44,12 +44,6 @@ layout: default
 
 
 ## Upcomings
-- ["A Comparative Study on Chinese Text Categorization Methods"](http://www.comp.nus.edu.sg/~TANCL/publications/c2000/he00pricai.pdf)
-Note: PRICAI workshop on text and web mining, 2000.
-Presentor: Li Jiawen Time: 7pm, 2017-03-04 
-Place：Zhixin Building 231B.
-
-- ["A New Approach to Feature Selection for Text Categorization"](http://ieeexplore.ieee.org/document/1598812/?reload=true)
-Note: Natural Language Processing and Knowledge Engineering, 2005. IEEE NLP-KE '05.
-Presentor: Cai Shuhong Time: 7pm, 2017-03-04 
-Place：Zhixin Building 231B.
+A discussion on TensorFlow with Prof. Chen's research group.
+Time: 16:30 pm, 2017-03-10.
+Place：Zhixin Building TBA.
