@@ -51,3 +51,12 @@ Note: Advances in neural information processing systems, 2015.
 Presentor: Yu Shuhua Time: 7pm, 2017-02-25. 
 Place：Zhixin Building 231B.
 
+- ["A Comparative Study on Chinese Text Categorization Methods"](http://www.comp.nus.edu.sg/~TANCL/publications/c2000/he00pricai.pdf)
+Note: PRICAI workshop on text and web mining, 2000.
+Presentor: Li Jiawen Time: 7pm, 2017-03-04 
+Place：Zhixin Building 231B.
+
+- ["A New Approach to Feature Selection for Text Categorization"](http://ieeexplore.ieee.org/document/1598812/?reload=true)
+Note: Natural Language Processing and Knowledge Engineering, 2005. IEEE NLP-KE '05.
+Presentor: Cai Shuhong Time: 7pm, 2017-03-04 
+Place：Zhixin Building 231B.
