@@ -46,4 +46,4 @@ layout: default
 ## Upcomings
 A discussion on TensorFlow with Prof. Chen's research group.
 Time: 16:30 pm, 2017-03-10.
-Place：Zhixin Building TBA.
+Place：Zhixin Building 201B.
