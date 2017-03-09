@@ -27,7 +27,7 @@ layout: default
       3. ~~"A New Approach toFeatureSelectionfor Text Categorization"~~
   
   -  Li Jiawen: 
-      1. ~~"A Comparative Study on Chinese Text Categorization Methods"~~
+      1. ~~"A Comparative Study on Chinese Text Categorization Methods"~~ 
       2. "A Comparative Study on Feature Selection in Text Categorization"
       3. "Best terms: An Efficient Feature-selection Algorithm for Text Categorization"
       
