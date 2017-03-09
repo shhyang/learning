@@ -24,11 +24,11 @@ layout: default
   - Cai Shuhong:
     1. "Meaningful Term Extraction and Discriminative Term Selection in Text Categorization via Unknown-Word Methodology"
     2. "OCFS: Optimal Orthogonal Centroid Feature Selection for Text Categorization"
-    3. ~~"A New Approach toFeatureSelectionfor Text Categorization"~~
+    3. ~~"A New Approach toFeatureSelectionfor Text Categorization"~~
   
   - Li Jiawen: 
     1. ~~"A Comparative Study on Chinese Text Categorization Methods"~~ 
-    2. "A Comparative Study on Feature Selection in Text Categorization"
+    2. "A Comparative Study on Feature Selection in Text Categorization"
     3. "Best terms: An Efficient Feature-selection Algorithm for Text Categorization"
       
       
