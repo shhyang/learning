@@ -60,3 +60,6 @@ Place：Zhixin Building 231B.
 Note: Natural Language Processing and Knowledge Engineering, 2005. IEEE NLP-KE '05.
 Presentor: Cai Shuhong Time: 7pm, 2017-03-04 
 Place：Zhixin Building 231B.
+- A discussion on TensorFlow with Prof. Chen's research group.
+Time: 16:30 pm, 2017-03-10.
+Place：Zhixin Building 201B.
