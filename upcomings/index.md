@@ -44,4 +44,8 @@ layout: default
 
 
 ## Upcomings
-A short intermission for midterm.
+- ["A Neural Network for Factoid Question Answering over Paragraphs"](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf)
+Note: EMNLP’2014, Project Advice, Neural Networks and Back-Prop.
+Presentor: Gong Kang.
+Time: 19:00pm, 2017-03-25.
+Place：Zhixin Building 203A.
