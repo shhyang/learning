@@ -44,7 +44,7 @@ layout: default
 
 
 ## Upcomings
-- Information Theory
+- Information Theory.
 Presentor: Prof. Yang
 Time: 19:00pm, 2017-04-03.
 Place：Zhixin Building 203A.
