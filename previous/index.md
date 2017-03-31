@@ -64,3 +64,9 @@ Place：Zhixin Building 231B.
 - A discussion on TensorFlow with Prof. Chen's research group.
 Time: 16:30 pm, 2017-03-10.
 Place：Zhixin Building 201B.
+
+- ["A Neural Network for Factoid Question Answering over Paragraphs"](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf)
+Note: EMNLP’2014, Project Advice, Neural Networks and Back-Prop.
+Presentor: Gong Kang.
+Time: 19:00pm, 2017-03-25.
+Place：Zhixin Building 203A.
