@@ -43,7 +43,7 @@ layout: default
 ## A Book on [Deep Learning](http://www.deeplearningbook.org)
 
 - [Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)
-  - ~~[Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)~~ (Prof. Yang\[[pdf](https://github.com/shhyang/mclearning/blob/master/previous/IT.pdf)\])
+  - ~~[Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)~~ (Prof. Yang\[[pdf](IT.pdf)\])
   - [Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)
   - [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html)
 - [Part II: Modern Practical Deep Networks](http://www.deeplearningbook.org/contents/part_practical.html)
