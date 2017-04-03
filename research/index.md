@@ -40,8 +40,8 @@ layout: default
   - Memory networks
     1. ~~"End-to-end Memory Networks"~~ (Yu Shuhua)
 
-## A Book on [Deep Learning](http://www.deeplearningbook.org):
-    Authors: Goodfellow, I., Bengio, Y., and Courville, A.
+## [Deep Learning](http://www.deeplearningbook.org) An MIT Press book:
+   Authors: Goodfellow, I., Bengio, Y., and Courville, A.
 - [Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)
   - ~~[Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)~~ (Prof. Yang\[[pdf](IT.pdf)\])
   - [Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)
