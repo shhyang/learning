@@ -73,6 +73,6 @@ Place：Zhixin Building 203A.
 
 - [Probability and Information Theory](IT.pdf).
 Note: [Deep Learning](http://www.deeplearningbook.org) Chapter 3.
-Presentor: Prof. Yang.
+Presentor: Prof. Yang Shenghao.
 Time: 19:00pm, 2017-04-03.
 Place：Zhixin Building 201B.
