@@ -30,7 +30,7 @@ Place：Zhixin Building 203A.
 
 - ["Ask Me Anything: Dynamic Memory Networks for Natural Language Processing"](http://arxiv.org/abs/1506.07285)
 Note: arXiv:1506.07285, 2015, A dynamic memory network which processes input sequences and questions, forms episodic memories, and generates relevant answers.
-Presentor: Gong kang. 
+Presentor: Gong Kang. 
 Time: 7pm, 2017-01-14.
 Place：Zhixin Building 231B.
 
