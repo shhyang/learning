@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Previously discussed topics:
+# Previously discussed topics
 
 - ["Advances in natural language processing"](http://science.sciencemag.org/content/349/6245/261)
 Note: Science’ 2015, A recent review.
