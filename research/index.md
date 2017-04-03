@@ -41,7 +41,7 @@ layout: default
     1. ~~"End-to-end Memory Networks"~~ (Yu Shuhua)
 
 ## A Book on [Deep Learning](http://www.deeplearningbook.org):
-
+    Authors: Goodfellow, I., Bengio, Y., and Courville, A.
 - [Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)
   - ~~[Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)~~ (Prof. Yang\[[pdf](IT.pdf)\])
   - [Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)
@@ -64,5 +64,3 @@ layout: default
   - [Approximate Inference](http://www.deeplearningbook.org/contents/inference.html)
   - [Deep Generative Models](http://www.deeplearningbook.org/contents/generative_models.html)
 
-
-Authors: Goodfellow, I., Bengio, Y., and Courville, A.
