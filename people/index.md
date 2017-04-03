@@ -2,35 +2,35 @@
 layout: default
 ---
 
-## People in the study group
+# People in the study group
 
-### Researchers
+## Researchers
 
-#### Prof.Yang Shenghao
+- Prof.Yang Shenghao
 
-#### Mr.Cao Haiwen
+- Mr.Cao Haiwen
 
-#### Mr.Liu Yu
+- Mr.Liu Yu
 
-#### Mr.Ma Jun
+- Mr.Ma Jun
 
 
-### Students
+## Students
 
-#### Jiang Shunan
+- Jiang Shunan
 
-#### Gong Kang
+- Gong Kang
 
-#### Chen Kang
+- Chen Kang
 
-#### Qian Junyu
+- Qian Junyu
 
-#### Yu Shuhua
+- Yu Shuhua
 
-#### Tang Qianyuan
+- Tang Qianyuan
 
-#### Chen Sibo
+- Chen Sibo
 
-#### Cai Shuhong
+- Cai Shuhong
 
-#### Li Jiawen
+- Li Jiawen
