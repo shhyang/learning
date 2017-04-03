@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Welcome
+# Welcome!
+## Founded in November 2016, this machine learning study group is a team of researchers and undergraduate students who are interested in understanding this world via machine learning at [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn). 
 
-## Welcome to Our Machine Learning Study Group! <br/>
-This study group is constructed by Prof. Yang Shenghao in November 2016. 
-Our group members are researchers and undergraduate students at [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn).
-We are happy to share with you about the interesting stuffs on Machine Learning!
+## Our research interests cover voice processing as well as nature language processing. Currently, we are mainly trying to utilize deep learning technique on medical analysis. 
+
+## We are happy to share with you about the interesting stuffs on Machine Learning!
