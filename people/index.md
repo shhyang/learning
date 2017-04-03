@@ -6,13 +6,13 @@ layout: default
 
 ## Researchers
 
-- Prof.Yang Shenghao
+- Prof. Yang Shenghao
 
-- Mr.Cao Haiwen
+- Mr. Cao Haiwen
 
-- Mr.Liu Yu
+- Mr. Liu Yu
 
-- Mr.Ma Jun
+- Mr. Ma Jun
 
 
 ## Students
