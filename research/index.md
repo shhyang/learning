@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-## Papers on Machine Learning
+## Papers on Machine Learning:
 
 - "Papers on Language Understanding"\[[pdf](reading-list-2016-09-18.pdf)\] <br/>
   (ref Prof.Yang shenghao's email on 15 Nov for the following topics)
@@ -40,7 +40,7 @@ layout: default
   - Memory networks
     1. ~~"End-to-end Memory Networks"~~ (Yu Shuhua)
 
-## A Book on [Deep Learning](http://www.deeplearningbook.org)
+## A Book on [Deep Learning](http://www.deeplearningbook.org):
 
 - [Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)
   - ~~[Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)~~ (Prof. Yang\[[pdf](IT.pdf)\])
@@ -63,3 +63,6 @@ layout: default
   - [Confronting the Partition Function](http://www.deeplearningbook.org/contents/partition.html)
   - [Approximate Inference](http://www.deeplearningbook.org/contents/inference.html)
   - [Deep Generative Models](http://www.deeplearningbook.org/contents/generative_models.html)
+
+
+Authors: Goodfellow, I., Bengio, Y., and Courville, A.
